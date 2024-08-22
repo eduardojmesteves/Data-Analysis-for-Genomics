@@ -1,3 +1,3 @@
 # HarvardX PH525.5x
-## Introduction to Bioconducto
+## Introduction to Bioconductor
 We begin with an introduction to the biology, explaining what we measure and why. Then we focus on the two main measurement technologies: next generation sequencing and microarrays. We then move on to describing how raw data and experimental information are imported into R and how we use Bioconductor classes to organize these data, whether generated locally, or harvested from public repositories or institutional archives. Genomic features are generally identified using intervals in genomic coordinates, and highly efficient algorithms for computing with genomic intervals will be examined in detail. Statistical methods for testing gene-centric or pathway-centric hypotheses with genome-scale data are found in packages such as limma, some of these techniques will be illustrated in lectures and labs.
